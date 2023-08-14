@@ -5,3 +5,6 @@
 84台供hadoop集群
 6台供PG和Redis
 ![[Pasted image 20230810192912.png]]
+
+
+待分析······

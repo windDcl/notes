@@ -14,3 +14,14 @@ vi /etc/host
 git config --global http.proxy http://127.0.0.1:7890
 ```
 解决
+
+## git status显示中文乱码
+![[Pasted image 20230814215806.png]]
+
+```
+ git config --global core.quotepath false
+```
+解决
+
+参考： https://blog.csdn.net/u012145252/article/details/81775362
+
