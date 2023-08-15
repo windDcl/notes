@@ -11,8 +11,12 @@
             "id": "e84f561a86a370c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大数据/软件安装/ambari安装.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "大数据/软件安装/ambari安装.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大数据/软件安装/ambari安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大数据/软件安装/ambari安装.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,5 +147,7 @@
     }
   },
   "active": "e84f561a86a370c8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "大数据/软件安装/ambari安装.md"
+  ]
 }
