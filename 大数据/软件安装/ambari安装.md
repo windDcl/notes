@@ -23,3 +23,6 @@ ambari-server、ambari-agent、ambari-metrics
 
 参考： https://juejin.cn/post/7079074822688505892
 
+
+
+datasophon另一款国产的软件
