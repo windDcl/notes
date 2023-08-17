@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md",
+                "file": "大数据/软件安装/kerberos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md",
+                "file": "大数据/软件安装/kerberos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md",
+                "file": "大数据/软件安装/kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md"
+                "file": "大数据/软件安装/kerberos.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e84f561a86a370c8",
   "lastOpenFiles": [
-    "大数据/软件安装/ambari安装.md"
+    "Pasted image 20230817204526.png",
+    "大数据/软件安装/ambari安装.md",
+    "大数据/软件安装/kerberos.md"
   ]
 }
