@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/kerberos.md",
+                "file": "大数据/集群规划/xxx银行数据量和集群分配.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/kerberos.md",
+                "file": "大数据/集群规划/xxx银行数据量和集群分配.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/kerberos.md",
+                "file": "大数据/集群规划/xxx银行数据量和集群分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/kerberos.md"
+                "file": "大数据/集群规划/xxx银行数据量和集群分配.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "e84f561a86a370c8",
   "lastOpenFiles": [
-    "大数据/LDAP.md",
+    "大数据/软件安装/doris.md",
+    "大数据/软件安装/hdp安装.md",
+    "大数据/软件安装/ambari安装.md",
     "大数据/软件安装/kerberos.md",
+    "大数据/LDAP.md",
     "大数据/kerberos.md",
     "Pasted image 20230819150726.png",
     "Pasted image 20230819150358.png",
     "Pasted image 20230819150344.png",
     "Pasted image 20230819143459.png",
     "Pasted image 20230819143421.png",
-    "Pasted image 20230817204526.png",
-    "大数据/软件安装/ambari安装.md"
+    "Pasted image 20230817204526.png"
   ]
 }

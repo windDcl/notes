@@ -25,4 +25,4 @@ ambari-server、ambari-agent、ambari-metrics
 
 
 
-datasophon另一款国产的软件
+datasophon  另一款国产的软件
