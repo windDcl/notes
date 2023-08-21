@@ -1,34 +1,38 @@
 
 4.1.3初始化
 ```
-cat << EOF | ldapmodify -Y EXTERNAL -H ldapi:///
-dn: cn=config
-changetype: modify
-add: olcDisallows
-olcDisallows: bind_anon
 
-dn: cn=config
+# Base CN、Root DN等基础配置
+cat << EOF | ldapadd -Y EXTERNAL -H ldapi:///
+dn: olcDatabase={1}monitor,cn=config
 changetype: modify
-add: olcRequires
-olcRequires: authc
+replace: olcAccess
+olcAccess: {0}to * by dn.base="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" read by dn.base="cn=admin,dc=example,dc=com" read by * none
 
-dn: olcDatabase={-1}frontend,cn=config
+dn: olcDatabase={2}hdb,cn=config
 changetype: modify
-add: olcRequires
-olcRequires: authc
+add: olcRootPW
+olcRootPW: $(slappasswd -s Admin1234!)
+-
+replace: olcRootDN
+olcRootDN: cn=admin,dc=example,dc=com
+-
+replace: olcSuffix
+olcSuffix: dc=example,dc=com
+-
+add: olcAccess
+olcAccess: {0}to attrs=userPassword by self write by dn.base="cn=admin,dc=example,dc=com" write by anonymous auth by * none
+olcAccess: {1}to * by dn.base="cn=admin,dc=example,dc=com" write by self write by * read
 EOF
 
-
-
+# 导入常用schema
 ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/core.ldif
 ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/cosine.ldif
 ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/nis.ldif
 ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/inetorgperson.ldif
-————————————————
-版权声明：本文为CSDN博主「　Laurence」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/bluishglc/article/details/125168912
 ```
 
+```
 禁止匿名访问
 ```
 cat << EOF | ldapmodify -Y EXTERNAL -H ldapi:///
@@ -105,3 +109,7 @@ EOF
 
 
 ```
+							```
+							
+```
+											``

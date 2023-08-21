@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/kerberos.md",
+                "file": "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24dd12aaa04f03ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/kerberos.md",
+                "file": "未命名 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/kerberos.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/kerberos.md"
+                "file": "未命名 1.md"
               }
             }
           }
@@ -171,13 +183,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89f7d4a59df4d05f",
+  "active": "24dd12aaa04f03ad",
   "lastOpenFiles": [
     "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
+    "未命名 1.md",
+    "大数据/LDAP.md",
+    "大数据/kerberos.md",
     "fefeef.md",
     "大数据/软件安装/测试.md",
     "未命名.md",
-    "大数据/LDAP.md",
     "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/hadoop.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
@@ -186,7 +200,6 @@
     "大数据/软件安装/doris.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/软件安装/kerberos.md",
-    "大数据/kerberos.md",
     "Pasted image 20230819150726.png",
     "Pasted image 20230819150358.png",
     "Pasted image 20230819150344.png",
