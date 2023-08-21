@@ -1,3 +1,8 @@
+安装成功的文档：
+https://www.cnblogs.com/erlou96/p/16878390.html#_label2_3
+
+
+
 
 >kerberos是什么？
 >具体原理是啥？

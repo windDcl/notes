@@ -100,6 +100,8 @@ EOF
 
 
 ```
-kdb5_ldap_util -D cn=admin,dc=example,dc=com -w Admin1234! -H ldap://linux01 create -r LINUX01 -subtrees dc=example,dc=com
+
+
+
 
 ```
