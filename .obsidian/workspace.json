@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fefeef.md",
+                "file": "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fefeef.md",
+                "file": "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fefeef.md"
+                "file": "大数据/软件安装/hadoop集群集成LDAP+kerberos.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3561a045929876f1",
+  "active": "89f7d4a59df4d05f",
   "lastOpenFiles": [
-    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
     "fefeef.md",
+    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
     "大数据/软件安装/测试.md",
     "未命名.md",
     "大数据/LDAP.md",
