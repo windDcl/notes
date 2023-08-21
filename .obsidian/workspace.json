@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/集群规划/xxx银行数据量和集群分配.md",
+                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/集群规划/xxx银行数据量和集群分配.md",
+                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/集群规划/xxx银行数据量和集群分配.md",
+                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/集群规划/xxx银行数据量和集群分配.md"
+                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e84f561a86a370c8",
   "lastOpenFiles": [
+    "大数据/linux.md",
+    "大数据/集群规划/xxx银行数据量和集群分配.md",
     "大数据/软件安装/doris.md",
     "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/ambari安装.md",
