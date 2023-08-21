@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
+                "file": "大数据/LDAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89f7d4a59df4d05f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3561a045929876f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fefeef.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
+                "file": "fefeef.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
+                "file": "fefeef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md"
+                "file": "fefeef.md"
               }
             }
           }
@@ -146,15 +171,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e84f561a86a370c8",
+  "active": "3561a045929876f1",
   "lastOpenFiles": [
+    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
+    "fefeef.md",
+    "大数据/软件安装/测试.md",
+    "未命名.md",
+    "大数据/LDAP.md",
+    "大数据/软件安装/hdp安装.md",
+    "大数据/软件安装/hadoop.md",
+    "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "大数据/linux.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
     "大数据/软件安装/doris.md",
-    "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/软件安装/kerberos.md",
-    "大数据/LDAP.md",
     "大数据/kerberos.md",
     "Pasted image 20230819150726.png",
     "Pasted image 20230819150358.png",

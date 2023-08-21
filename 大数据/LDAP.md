@@ -70,3 +70,58 @@ LDAP（Lightweight Directory Access Protocol）和Kerberos都是与身份验证�
     
 
 综上所述，LDAP和Kerberos虽然在某些方面有重叠，但它们的主要职责和使用场景存在一些不同。在一些情况下，它们也可以结合使用，以提供更全面的身份验证和授权解决方案。
+
+
+OpenLDAP 默认以==Berkeley DB== 作为后端数据库，Berkeley DB 数据库主要以散列的数据类型进行数据存储，如以键值对的方式进行存储。Berkeley DB 是一类特殊的数据库，主要用于搜索、浏览、更新查询操作，一般对于一次写入数据、多次查询和搜索有很好的效果。Berkeley DB 数据库是面向查询进行优化，面向读取进行优化的数据库。Berkeley DB 不支持事务型数据库（MySQL、MariDB、Oracle 等）所支持的高并发的吞吐量以及复杂的事务操作。
+
+ OpenLDAP 目录中的信息是按照树形结构进行组织的，具体信息存储在条目（entry）中，条目可以看成关系数据库中的表记录，条目是具有区别名（Distinguished Name，DN）的属性（attribute），DN 是用来引用条目，==DN 相当于关系数据库（Oracle/MySQL）中的主键（primary key）==，是唯一的。属性由类型（type）和一个或者多个值（value）组成，相当于关系数据库中字段的概念。
+
+
+
+- c：国家。
+    
+- cn：common name，指一个对象的名字。如果指人，需要使用其全名。
+    
+- dc：domain Component，常用来指一个域名的一部分。
+    
+- givenName：指一个人的名字，不能用来指姓。
+    
+- l：指一个地名，如一个城市或者其他地理区域的名字。
+    
+- mail：电子信箱地址。
+    
+- o：organizationName，指一个组织的名字。
+    
+- ou：organizationalUnitName，指一个组织单元的名字。
+    
+- sn：surname，指一个人的姓。
+    
+- telephoneNumber：电话号码，应该带有所在的国家的代码。
+    
+- uid：userid，通常指某个用户的登录名，与Linux系统中用户的uid不同。
+
+---
+
+`dn: uid=water,ou=people,``dc``=wzlinux,``dc``=com`     `#DN 描述项，在整个目录树上为唯一的`  
+
+`objectClass:` `top`  
+
+`objectClass: posixAccount`  
+
+`objectClass: shadowAccount`  
+
+`objectClass: person`  
+
+`objectClass: inetOrgPerson`  
+
+`objectClass: hostObject`  
+
+`sn: Wang`  
+
+`cn: WangZan`  
+
+`telephoneNumber：xxxxxxxxxxx`  
+
+`mail: xxxx@126.com`
+
+---
