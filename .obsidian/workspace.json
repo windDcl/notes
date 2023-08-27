@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/kerberos.md",
+                "file": "大数据/原理深入/大数据技术的趋势.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/kerberos.md",
+                "file": "大数据/原理深入/大数据技术的趋势.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/kerberos.md",
+                "file": "大数据/原理深入/大数据技术的趋势.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/kerberos.md"
+                "file": "大数据/原理深入/大数据技术的趋势.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "24dd12aaa04f03ad",
+  "active": "5e76cbe588b64f85",
   "lastOpenFiles": [
+    "大数据/原理深入/kerberos.md",
     "大数据/原理深入/hive调优.md",
     "大数据/原理深入/git.md",
     "大数据/软件安装/zookeeper.md",
@@ -160,7 +161,6 @@
     "大数据/软件安装/doris.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
-    "大数据/原理深入/kerberos.md",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
     "每10分钟的pv、uv和会话.md",
