@@ -62,4 +62,5 @@ nohup bin/flume-ng agent -n a1 -c conf -f job/flume-netcat-logger.conf 1>/dev/nu
 ## channel
 * memory类型，极端情况会丢数据
 * file，极端情况会重复数据（当sink写完后，但没来得及通知channel删除数据的时候）
-* 
+
+
