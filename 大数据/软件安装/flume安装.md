@@ -1,3 +1,4 @@
+## 安装
 下载jar包解压即可
 附下载链接。这里我用的是1.9版本。经测试最新版的1.11的官网监听端口的用例无效。
 ```
@@ -52,3 +53,8 @@ bin/flume-ng -c conf -n a1 -f job/flume-netcat-logger.conf -Dflume.root.logger=I
 # 后台启动
 nohup bin/flume-ng agent -n a1 -c conf -f job/flume-netcat-logger.conf 1>/dev/null 2>&1 &
 ```
+
+## source类型
+>exec source，监听系统命令
+>taildir source，监听文件夹下的每个文件行数，可记录偏移量
+>avro source，监听某个端口的序列化成avro的数据。
