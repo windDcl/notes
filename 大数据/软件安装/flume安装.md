@@ -55,6 +55,11 @@ nohup bin/flume-ng agent -n a1 -c conf -f job/flume-netcat-logger.conf 1>/dev/nu
 ```
 
 ## source类型
->exec source，监听系统命令
->taildir source，监听文件夹下的每个文件行数，可记录偏移量
->avro source，监听某个端口的序列化成avro的数据。
+- exec source，监听系统命令，可能丢数据
+- taildir source，监听文件夹下的每个文件行数，可记录偏移量。保证不会丢数据
+- avro source，监听某个端口的序列化成avro的数据。可以设置压缩。他的一个作用是可以用来多级agent
+
+## channel
+* memory类型，极端情况会丢数据
+* file，极端情况会重复数据（当sink写完后，但没来得及通知channel删除数据的时候）
+* 
