@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/大数据技术的趋势.md",
+                "file": "大数据/软件安装/ambari安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/大数据技术的趋势.md",
+                "file": "大数据/软件安装/ambari安装.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/大数据技术的趋势.md",
+                "file": "大数据/软件安装/ambari安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/大数据技术的趋势.md"
+                "file": "大数据/软件安装/ambari安装.md"
               }
             }
           }
@@ -146,12 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e76cbe588b64f85",
+  "active": "24dd12aaa04f03ad",
   "lastOpenFiles": [
+    "大数据/软件安装/zookeeper.md",
+    "大数据/原理深入/PG.md",
+    "大数据/原理深入/ES.md",
+    "大数据/软件安装/PG.md",
+    "大数据/软件安装/ES.md",
+    "大数据/软件安装/ambari安装.md",
+    "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入/kerberos.md",
     "大数据/原理深入/hive调优.md",
     "大数据/原理深入/git.md",
-    "大数据/软件安装/zookeeper.md",
     "大数据/软件安装/mysql.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "大数据/软件安装/kerberos.md",
@@ -159,7 +165,6 @@
     "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/flume安装.md",
     "大数据/软件安装/doris.md",
-    "大数据/软件安装/ambari安装.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
@@ -171,15 +176,10 @@
     "大数据/原理深入/LDAP.md",
     "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
     "大数据/原理深入/linux.md",
-    "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入",
     "README.md",
     "未命名 1.md",
     "fefeef.md",
-    "未命名.md",
-    "大数据/软件安装/hive.md",
-    "自己面试/面试问题.md",
-    "大数据/软件安装/测试.md",
-    "大数据/软件安装/hadoop.md"
+    "未命名.md"
   ]
 }
