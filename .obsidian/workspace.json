@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md",
+                "file": "大数据/项目/2.数据采集.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md",
+                "file": "大数据/项目/2.数据采集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md",
+                "file": "大数据/项目/2.数据采集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/ambari安装.md"
+                "file": "大数据/项目/2.数据采集.md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "24dd12aaa04f03ad",
   "lastOpenFiles": [
+    "大数据/项目/1.软件安装.md",
+    "大数据/项目/5.结果输出.md",
+    "大数据/项目/4.规则匹配.md",
+    "大数据/项目/3.数据清洗.md",
+    "大数据/项目/2.数据采集.md",
+    "大数据/软件安装/ambari安装.md",
+    "大数据/项目",
     "大数据/软件安装/zookeeper.md",
     "大数据/原理深入/PG.md",
     "大数据/原理深入/ES.md",
     "大数据/软件安装/PG.md",
     "大数据/软件安装/ES.md",
-    "大数据/软件安装/ambari安装.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入/kerberos.md",
     "大数据/原理深入/hive调优.md",
@@ -175,11 +181,6 @@
     "data/pictures/Pasted image 20230819143459.png",
     "大数据/原理深入/LDAP.md",
     "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
-    "大数据/原理深入/linux.md",
-    "大数据/原理深入",
-    "README.md",
-    "未命名 1.md",
-    "fefeef.md",
-    "未命名.md"
+    "大数据/原理深入"
   ]
 }
