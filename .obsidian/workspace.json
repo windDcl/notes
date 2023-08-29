@@ -148,11 +148,13 @@
   },
   "active": "24dd12aaa04f03ad",
   "lastOpenFiles": [
+    "debug/idea无法下载源码可能原因.md",
+    "debug/yarn节点unhealthy状态.md",
+    "大数据/项目/2.数据采集.md",
     "大数据/项目/1.软件安装.md",
     "大数据/项目/5.结果输出.md",
     "大数据/项目/4.规则匹配.md",
     "大数据/项目/3.数据清洗.md",
-    "大数据/项目/2.数据采集.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/项目",
     "大数据/软件安装/zookeeper.md",
@@ -179,8 +181,6 @@
     "data/pictures/Pasted image 20230819150358.png",
     "data/pictures/Pasted image 20230819150344.png",
     "data/pictures/Pasted image 20230819143459.png",
-    "大数据/原理深入/LDAP.md",
-    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
     "大数据/原理深入"
   ]
 }
