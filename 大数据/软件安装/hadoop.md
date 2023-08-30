@@ -18,7 +18,7 @@ tar -zxvf jdk-8u181-linux-arm64-vfp-hflt.tar.gz
 
 ```bash
 #java
-export JAVA_HOME=/usr/java/jdk8u282-b08
+export JAVA_HOME=/opt/jdk1.8.0_181
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib
 ```
