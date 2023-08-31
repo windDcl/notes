@@ -1,3 +1,33 @@
+## ubuntu命令
+### 关闭防火墙
+```
+ufw disable
+```
+### 切换root并修改密码
+```
+sudo su
+
+passwd root
+```
+### 修改root可以远程登录
+```shell
+在 Linux 中，要实现 root 免密登录，需要以下步骤：
+
+1. 登录到服务器，并以 root 身份登录。
+    
+2. 打开 /etc/ssh/sshd_config 文件。
+    
+3. 寻找 PermitRootLogin 参数，并将其值改为 yes。
+    
+4. 保存文件并退出。
+    
+5. 重启 ssh 服务，使修改生效。
+systemctl restart sshd
+```
+
+
+
+
 ## 重新分区
 虚拟机增加硬盘的容量后，需要手动的划分分区和格式化，否则无法使用。具体的步骤：
 
