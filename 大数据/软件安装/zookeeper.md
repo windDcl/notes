@@ -41,3 +41,15 @@ bin/zkServer.sh start
 # 查看zk的状态
 bin/zkServer.sh status
 ```
+**一键启动脚本**
+```shell
+#!/bin/bash
+
+for i in 1 2 3
+
+do
+echo "ssh linux0${i}..."
+ssh linux0${i} "source /etc/profile;/opt/zookeeper/bin/zkServer.sh $1"
+
+done
+```
