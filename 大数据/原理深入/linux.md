@@ -26,6 +26,21 @@ systemctl restart sshd
 ```
 
 
+## 给根目录扩容
+ubuntu安装后。/目录下的容量远不及拥有的容量，这是因为lvm（逻辑分区）容量分配的量少。我们只需要分配给lvm分区的容量扩一下即可
+参考： https://cloud.tencent.com/developer/article/1965711 
+1、执行命令lvdisplay查看系统逻辑分区信息
+![[Pasted image 20230901071213.png]]
+2、执行命令fdisk -l查看磁盘信息
+![[Pasted image 20230901071233.png]]
+从上图可以看出磁盘大小(1T)远大于系统逻辑分区大小(200G)，知道了现在磁盘完全可以提升利用率，就可以直接进行扩容，不需要额外增加硬盘
+
+3、执行命令lvextend -l +100%FREE /dev/ubuntu-vg/ubuntu-lv，注意后面的逻辑分区名字使用lvdisplay命令获取到的
+
+4、执行 命令resize2fs /dev/ubuntu-vg/ubuntu-lv 刷新逻辑卷
+
+5、执行命令df -h查看效果
+![[Pasted image 20230901071252.png]]
 
 
 ## 重新分区

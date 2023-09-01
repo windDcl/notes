@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/kafka.md",
+                "file": "大数据/原理深入/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/kafka.md",
+                "file": "大数据/原理深入/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/kafka.md",
+                "file": "大数据/原理深入/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/kafka.md"
+                "file": "大数据/原理深入/linux.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "24dd12aaa04f03ad",
   "lastOpenFiles": [
-    "大数据/软件安装/zookeeper.md",
+    "data/pictures/Pasted image 20230901071252.png",
+    "data/pictures/Pasted image 20230901071233.png",
+    "data/pictures/Pasted image 20230901071213.png",
     "大数据/软件安装/mysql.md",
     "大数据/软件安装/kafka.md",
+    "大数据/软件安装/zookeeper.md",
     "大数据/软件安装/hadoop.md",
     "大数据/原理深入/linux.md",
     "大数据/项目/2.数据采集.md",
@@ -174,7 +177,6 @@
     "大数据/软件安装/kerberos.md",
     "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/flume安装.md",
-    "大数据/软件安装/doris.md",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
     "data/pictures/Pasted image 20230819150726.png",
