@@ -134,3 +134,52 @@ Web API http 端口。此选项指定指标 REST 端点的绑定端口。默认�
 **`--enable-local-plugin-development`**
 
 此标志使开发人员能够更新其本地 Gemfile，而不会遇到由冻结的锁定文件引起的问题。当您在本地开发/测试插件时，此标志会很有帮助。
+
+## 监控API
+
+### 节点状态api
+The node stats API retrieves runtime stats about Logstash.
+
+`curl -XGET 'localhost:9600/_node/stats/<types>'`
+
+Where `<types>` is optional and specifies the types of stats you want to return.
+
+默认情况下，会返回所有的统计信息。您可以通过将以下类型组合在逗号分隔的列表中，来限制返回的信息：
+
+```
+
+
+jvm
+
+获取JVM统计信息，包括线程、内存使用、垃圾收集器和运行时间的统计信息。
+
+process
+
+获取进程统计信息，包括文件描述符、内存消耗和CPU使用率的统计信息。
+
+events
+
+获取Logstash实例的事件相关统计信息（无论创建和销毁了多少个管道）。
+
+flow
+
+获取Logstash实例的流程相关统计信息（无论创建和销毁了多少个管道）。
+
+pipelines
+
+获取每个Logstash管道的运行时统计信息。
+
+reloads
+
+获取配置重新加载成功和失败的运行时统计信息。
+
+os
+
+获取在Logstash在容器中运行时，关于cgroups的运行时统计信息。
+
+geoip_download_manager
+
+获取与Geoip过滤器插件一起使用的数据库的统计信息。
+
+请参阅"Common Options"以查看可应用于所有Logstash监控API的选项列表。
+```
