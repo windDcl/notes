@@ -11,8 +11,12 @@
             "id": "019df3724ed6c4f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大数据/软件安装/mysql.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "大数据/软件安装/mysql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大数据/软件安装/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大数据/软件安装/mysql.md"
+              }
             }
           }
         ],
@@ -140,26 +148,27 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
+    "大数据/原理深入/linux.md",
+    "大数据/集群规划/xxx银行数据量和集群分配.md",
+    "大数据/软件安装/mysql.md",
+    "大数据/项目/2.数据采集.md",
+    "大数据/项目/1.软件安装.md",
+    "大数据/项目/4.规则匹配.md",
+    "大数据/项目/5.结果输出.md",
     "自己面试/面试问题.md",
     "自己面试/hive-sql练习.md",
     "面试题.md",
     "自己面试/项目相关.md",
     "自己面试/技术选型.md",
     "大数据/原理深入/logstash.md",
-    "大数据/项目/2.数据采集.md",
-    "大数据/原理深入/linux.md",
     "data/pictures/Pasted image 20230901071252.png",
     "data/pictures/Pasted image 20230901071233.png",
     "data/pictures/Pasted image 20230901071213.png",
-    "大数据/软件安装/mysql.md",
     "大数据/软件安装/kafka.md",
     "大数据/软件安装/zookeeper.md",
     "大数据/软件安装/hadoop.md",
     "debug/idea无法下载源码可能原因.md",
     "debug/yarn节点unhealthy状态.md",
-    "大数据/项目/1.软件安装.md",
-    "大数据/项目/5.结果输出.md",
-    "大数据/项目/4.规则匹配.md",
     "大数据/项目/3.数据清洗.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/项目",
@@ -169,7 +178,6 @@
     "大数据/软件安装/ES.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入/kerberos.md",
-    "大数据/原理深入/hive调优.md",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
     "data/pictures/Pasted image 20230819150726.png",

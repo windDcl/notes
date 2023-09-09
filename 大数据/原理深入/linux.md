@@ -24,7 +24,10 @@ passwd root
 5. 重启 ssh 服务，使修改生效。
 systemctl restart sshd
 ```
-
+## ubuntu换apt源
+```shell
+ddd
+```
 
 ## 给根目录扩容
 ubuntu安装后。/目录下的容量远不及拥有的容量，这是因为lvm（逻辑分区）容量分配的量少。我们只需要分配给lvm分区的容量扩一下即可

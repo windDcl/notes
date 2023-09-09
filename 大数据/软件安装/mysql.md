@@ -100,3 +100,8 @@ rpm -ivh mysql-community-libs-8.0.28-1.el7.aarch64.rpm 
 
 rpm -ivh mysql-community-client-8.0.28-1.el7.aarch64.rpm 
 ```
+
+## ubuntu安装mysql8
+```
+apt install mysql-server
+```
