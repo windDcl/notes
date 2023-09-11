@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/mysql.md",
+                "file": "大数据/原理深入/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/mysql.md",
+                "file": "大数据/原理深入/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/mysql.md",
+                "file": "大数据/原理深入/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/mysql.md"
+                "file": "大数据/原理深入/linux.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
+    "大数据/软件安装/mysql.md",
     "大数据/原理深入/linux.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
-    "大数据/软件安装/mysql.md",
     "大数据/项目/2.数据采集.md",
     "大数据/项目/1.软件安装.md",
     "大数据/项目/4.规则匹配.md",

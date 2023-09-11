@@ -67,6 +67,7 @@ cat /var/log/mysqld.log |grep root
 # 登录修改密码
 mysql -uroot -pArqnZ/GjV2eW
 alter user 'root'@'localhost' identified by '123456';
+
 ```
 
 ## 设置远程登录
@@ -102,6 +103,10 @@ rpm -ivh mysql-community-client-8.0.28-1.el7.aarch64.rpm 
 ```
 
 ## ubuntu安装mysql8
+
+参考 
+https://learnku.com/articles/56934
 ```
 apt install mysql-server
+
 ```

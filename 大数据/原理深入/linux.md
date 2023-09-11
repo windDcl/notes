@@ -25,8 +25,18 @@ passwd root
 systemctl restart sshd
 ```
 ## ubuntu换apt源
+
+注意这里的源需要加上-ports，因为我是arm架构的。非arm架构不加
 ```shell
-ddd
+vim /etc/apt/source.list
+
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-updates main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-backports main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-security main restricted universe multiverse
+
+
+apt update
 ```
 
 ## 给根目录扩容
