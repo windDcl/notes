@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/未命名.md",
+                "file": "大数据/项目/数据采集预处理/总体设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/未命名.md",
+                "file": "大数据/项目/数据采集预处理/总体设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/未命名.md",
+                "file": "大数据/项目/数据采集预处理/总体设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/未命名.md"
+                "file": "大数据/项目/数据采集预处理/总体设计.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
-    "大数据/项目/数据采集预处理/总体设计.md",
-    "大数据/未命名.md",
-    "大数据/项目/数据采集预处理/需求规划.md",
     "大数据/项目/数据采集预处理/详细设计.md",
+    "大数据/未命名.md",
+    "大数据/项目/数据采集预处理/总体设计.md",
+    "大数据/项目/数据采集预处理/需求规划.md",
     "大数据/项目/数据采集预处理/接口设计.md",
     "大数据/项目/数据采集预处理/表结构设计.md",
     "data/pictures/Pasted image 20230911232424.png",
