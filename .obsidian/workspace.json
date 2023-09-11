@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "大数据/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "大数据/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "大数据/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/linux.md"
+                "file": "大数据/未命名.md"
               }
             }
           }
@@ -148,13 +148,22 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
-    "大数据/软件安装/mysql.md",
-    "大数据/原理深入/linux.md",
-    "大数据/集群规划/xxx银行数据量和集群分配.md",
-    "大数据/项目/2.数据采集.md",
+    "大数据/项目/数据采集预处理/总体设计.md",
+    "大数据/未命名.md",
+    "大数据/项目/数据采集预处理/需求规划.md",
+    "大数据/项目/数据采集预处理/详细设计.md",
+    "大数据/项目/数据采集预处理/接口设计.md",
+    "大数据/项目/数据采集预处理/表结构设计.md",
+    "data/pictures/Pasted image 20230911232424.png",
     "大数据/项目/1.软件安装.md",
-    "大数据/项目/4.规则匹配.md",
     "大数据/项目/5.结果输出.md",
+    "大数据/项目/4.规则匹配.md",
+    "大数据/项目/3.数据清洗.md",
+    "大数据/项目/2.数据采集.md",
+    "大数据/项目/数据采集预处理",
+    "大数据/原理深入/linux.md",
+    "大数据/软件安装/mysql.md",
+    "大数据/集群规划/xxx银行数据量和集群分配.md",
     "自己面试/面试问题.md",
     "自己面试/hive-sql练习.md",
     "面试题.md",
@@ -169,15 +178,8 @@
     "大数据/软件安装/hadoop.md",
     "debug/idea无法下载源码可能原因.md",
     "debug/yarn节点unhealthy状态.md",
-    "大数据/项目/3.数据清洗.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/项目",
-    "大数据/原理深入/PG.md",
-    "大数据/原理深入/ES.md",
-    "大数据/软件安装/PG.md",
-    "大数据/软件安装/ES.md",
-    "大数据/原理深入/大数据技术的趋势.md",
-    "大数据/原理深入/kerberos.md",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
     "data/pictures/Pasted image 20230819150726.png",
