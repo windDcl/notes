@@ -23,9 +23,11 @@
             "id": "48fb943fd0e5a1ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "自己面试/面试题.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/项目/数据采集预处理/总体设计.md",
+                "file": "自己面试/面试题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/项目/数据采集预处理/总体设计.md",
+                "file": "自己面试/面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/项目/数据采集预处理/总体设计.md"
+                "file": "自己面试/面试题.md"
               }
             }
           },
@@ -169,6 +171,10 @@
   },
   "active": "48fb943fd0e5a1ae",
   "lastOpenFiles": [
+    "data/pictures/Pasted image 20230914200737.png",
+    "自己面试/面试问题.md",
+    "自己面试/面试题.md",
+    "面试题.md",
     "大数据/项目/数据采集预处理/详细设计.md",
     "大数据/未命名.md",
     "大数据/项目/数据采集预处理/总体设计.md",
@@ -185,9 +191,7 @@
     "大数据/原理深入/linux.md",
     "大数据/软件安装/mysql.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
-    "自己面试/面试问题.md",
     "自己面试/hive-sql练习.md",
-    "面试题.md",
     "自己面试/项目相关.md",
     "自己面试/技术选型.md",
     "大数据/原理深入/logstash.md",
@@ -198,8 +202,6 @@
     "大数据/软件安装/zookeeper.md",
     "大数据/软件安装/hadoop.md",
     "debug/idea无法下载源码可能原因.md",
-    "debug/yarn节点unhealthy状态.md",
-    "大数据/软件安装/ambari安装.md",
     "大数据/项目",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
