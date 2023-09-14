@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48fb943fd0e5a1ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "大数据/项目/数据采集预处理/总体设计.md"
               }
             }
+          },
+          {
+            "id": "998c17ce9c1da433",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -146,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "019df3724ed6c4f4",
+  "active": "48fb943fd0e5a1ae",
   "lastOpenFiles": [
     "大数据/项目/数据采集预处理/详细设计.md",
     "大数据/未命名.md",
