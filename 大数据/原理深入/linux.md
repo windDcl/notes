@@ -115,3 +115,12 @@ lsblk
 参考：
 https://blog.csdn.net/weixin_42118880/article/details/115013743
 https://blog.csdn.net/qq_45664055/article/details/107516419
+
+
+## 常用命令
+
+```shell
+# 查看/opt目录下所有的文件夹大小。
+du -h -d 1 /opt 
+```
+![[Pasted image 20230917212733.png]]
