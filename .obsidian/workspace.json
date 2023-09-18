@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/logstash.md",
+                "file": "大数据/原理深入/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/logstash.md",
+                "file": "大数据/原理深入/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/logstash.md",
+                "file": "大数据/原理深入/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/logstash.md"
+                "file": "大数据/原理深入/linux.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "48fb943fd0e5a1ae",
   "lastOpenFiles": [
+    "大数据/原理深入/logstash.md",
     "大数据/原理深入/linux.md",
     "大数据/项目/数据采集预处理/总体设计.md",
     "data/pictures/Pasted image 20230917212733.png",
-    "大数据/原理深入/logstash.md",
     "自己面试/面试题.md",
     "data/pictures/Pasted image 20230914200737.png",
     "自己面试/面试问题.md",

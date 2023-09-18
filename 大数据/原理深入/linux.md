@@ -124,3 +124,7 @@ https://blog.csdn.net/qq_45664055/article/details/107516419
 du -h -d 1 /opt 
 ```
 ![[Pasted image 20230917212733.png]]
+
+## 添加用户用户管理
+https://blog.csdn.net/li_101357/article/details/69367457
+
