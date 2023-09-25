@@ -125,6 +125,9 @@ du -h -d 1 /opt
 ```
 ![[Pasted image 20230917212733.png]]
 
+查看内存cpu大小
+https://zhuanlan.zhihu.com/p/617752402?utm_id=0
+
 ## 添加用户用户管理
 https://blog.csdn.net/li_101357/article/details/69367457
 
