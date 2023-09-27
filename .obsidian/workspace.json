@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d11fdb4d1020597a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48fb943fd0e5a1ae",
+  "active": "d11fdb4d1020597a",
   "lastOpenFiles": [
     "大数据/原理深入/logstash.md",
     "大数据/原理深入/linux.md",
