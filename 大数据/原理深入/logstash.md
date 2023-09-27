@@ -5,4 +5,25 @@
 
 - 各种过滤类型尝试一下
 - 其他没尝试过的都试一下
-- 
+
+```shell
+input { stdin { } }
+
+  
+
+filter {
+
+  if [foo] {
+	mutate { add }
+  }
+
+}
+
+  
+
+output {
+
+  stdout { codec => rubydebug }
+
+}
+```

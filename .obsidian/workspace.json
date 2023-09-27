@@ -35,9 +35,11 @@
             "id": "d11fdb4d1020597a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "大数据/原理深入/logstash.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "大数据/原理深入/logstash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "大数据/原理深入/logstash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/linux.md"
+                "file": "大数据/原理深入/logstash.md"
               }
             }
           },
