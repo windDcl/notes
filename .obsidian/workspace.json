@@ -47,9 +47,11 @@
             "id": "07e6fb2065b71c5d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "大数据/原理深入/ES.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/logstash.md",
+                "file": "大数据/原理深入/ES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/logstash.md",
+                "file": "大数据/原理深入/ES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/logstash.md"
+                "file": "大数据/原理深入/ES.md"
               }
             }
           },
@@ -193,6 +195,9 @@
   },
   "active": "07e6fb2065b71c5d",
   "lastOpenFiles": [
+    "data/pictures/Pasted image 20231025214417.png",
+    "data/pictures/Pasted image 20231025213915.png",
+    "data/pictures/Pasted image 20231025213430.png",
     "大数据/原理深入/logstash.md",
     "大数据/原理深入/linux.md",
     "大数据/项目/数据采集预处理/总体设计.md",
@@ -228,8 +233,6 @@
     "大数据/项目",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230819143421.png",
-    "data/pictures/Pasted image 20230819150726.png",
-    "data/pictures/Pasted image 20230819150358.png",
     "大数据/原理深入"
   ]
 }
