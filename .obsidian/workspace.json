@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/docker.md",
+                "file": "大数据/软件安装/ldap.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/docker.md",
+                "file": "大数据/软件安装/ldap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/docker.md",
+                "file": "大数据/软件安装/ldap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/docker.md"
+                "file": "大数据/软件安装/ldap.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "07e6fb2065b71c5d",
   "lastOpenFiles": [
-    "大数据/原理深入/ES.md",
     "大数据/软件安装/docker.md",
+    "大数据/软件安装/ldap.md",
+    "大数据/原理深入/ES.md",
     "data/pictures/Pasted image 20231025214417.png",
     "data/pictures/Pasted image 20231025213915.png",
     "data/pictures/Pasted image 20231025213430.png",
@@ -230,7 +231,6 @@
     "data/pictures/Pasted image 20230901071213.png",
     "大数据/软件安装/kafka.md",
     "大数据/软件安装/zookeeper.md",
-    "大数据/软件安装/hadoop.md",
     "大数据/项目",
     "data/pictures/Pasted image 20230817204526.png",
     "大数据/原理深入"
