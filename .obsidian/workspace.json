@@ -49,24 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/ES.md",
+                "file": "大数据/软件安装/docker.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7ce2ec8b341bdaff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/ES.md",
+                "file": "大数据/软件安装/docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/ES.md",
+                "file": "大数据/软件安装/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/ES.md"
+                "file": "大数据/软件安装/docker.md"
               }
             }
           },
@@ -203,8 +193,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ce2ec8b341bdaff",
+  "active": "07e6fb2065b71c5d",
   "lastOpenFiles": [
+    "大数据/原理深入/ES.md",
+    "大数据/软件安装/docker.md",
     "data/pictures/Pasted image 20231025214417.png",
     "data/pictures/Pasted image 20231025213915.png",
     "data/pictures/Pasted image 20231025213430.png",
@@ -239,10 +231,8 @@
     "大数据/软件安装/kafka.md",
     "大数据/软件安装/zookeeper.md",
     "大数据/软件安装/hadoop.md",
-    "debug/idea无法下载源码可能原因.md",
     "大数据/项目",
     "data/pictures/Pasted image 20230817204526.png",
-    "data/pictures/Pasted image 20230819143421.png",
     "大数据/原理深入"
   ]
 }
