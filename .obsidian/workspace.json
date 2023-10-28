@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ce2ec8b341bdaff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "07e6fb2065b71c5d",
+  "active": "7ce2ec8b341bdaff",
   "lastOpenFiles": [
     "data/pictures/Pasted image 20231025214417.png",
     "data/pictures/Pasted image 20231025213915.png",
