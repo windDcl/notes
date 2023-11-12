@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/docker.md",
+                "file": "自己面试/面试问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/docker.md",
+                "file": "自己面试/面试问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/docker.md",
+                "file": "自己面试/面试问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/docker.md"
+                "file": "自己面试/面试问题.md"
               }
             }
           },
@@ -194,8 +194,14 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
-    "大数据/软件安装/ambari安装.md",
+    "自己面试/技术选型.md",
+    "自己面试/面试题.md",
+    "自己面试/项目相关.md",
+    "自己面试/面试问题.md",
+    "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
+    "大数据/原理深入/大数据技术的趋势.md",
     "大数据/软件安装/docker.md",
+    "大数据/软件安装/ambari安装.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
     "大数据/软件安装/ldap.md",
     "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
@@ -214,13 +220,7 @@
     "大数据/原理深入/kerberos.md",
     "大数据/原理深入/hive调优.md",
     "大数据/原理深入/ES.md",
-    "大数据/项目/数据采集预处理/接口设计.md",
-    "大数据/项目/数据采集预处理/表结构设计.md",
-    "书籍/樊登读书分享.md",
-    "书籍/亲密关系.md",
-    "大数据/项目/数据采集预处理/总体设计.md",
     "书籍",
-    "大数据/原理深入/linux.md",
     "data/pictures/Pasted image 20231025214417.png",
     "data/pictures/Pasted image 20231025213915.png",
     "data/pictures/Pasted image 20231025213430.png",
