@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自己面试/面试问题.md",
+                "file": "大数据/原理深入/logstash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自己面试/面试问题.md",
+                "file": "大数据/原理深入/logstash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自己面试/面试问题.md"
+                "file": "大数据/原理深入/logstash.md"
               }
             }
           },
@@ -192,12 +193,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "019df3724ed6c4f4",
+  "active": "d11fdb4d1020597a",
   "lastOpenFiles": [
+    "大数据/软件安装/ranger.md",
+    "大数据/原理深入/logstash.md",
+    "大数据/原理深入/linux.md",
+    "自己面试/面试问题.md",
     "自己面试/技术选型.md",
     "自己面试/面试题.md",
     "自己面试/项目相关.md",
-    "自己面试/面试问题.md",
     "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/软件安装/docker.md",
@@ -209,7 +213,6 @@
     "大数据/软件安装/flume安装.md",
     "大数据/软件安装/ES.md",
     "大数据/软件安装/doris.md",
-    "大数据/软件安装/ranger.md",
     "大数据/软件安装/PG.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "大数据/软件安装/kafka.md",
@@ -218,8 +221,6 @@
     "大数据/软件安装/mysql.md",
     "大数据/软件安装/kerberos.md",
     "大数据/原理深入/kerberos.md",
-    "大数据/原理深入/hive调优.md",
-    "大数据/原理深入/ES.md",
     "书籍",
     "data/pictures/Pasted image 20231025214417.png",
     "data/pictures/Pasted image 20231025213915.png",
