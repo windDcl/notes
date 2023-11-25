@@ -56,3 +56,6 @@ done
 
 ## 配置kerberos认证
 https://developer.aliyun.com/article/25626
+
+## zookeeper选举相关api
+https://blog.csdn.net/younger_china/article/details/53063426
