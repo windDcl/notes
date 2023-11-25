@@ -53,3 +53,6 @@ ssh linux0${i} "source /etc/profile;/opt/zookeeper/bin/zkServer.sh $1"
 
 done
 ```
+
+## 配置kerberos认证
+https://developer.aliyun.com/article/25626

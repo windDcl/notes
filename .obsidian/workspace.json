@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己面试/面试问题.md",
+                "file": "大数据/软件安装/zookeeper.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自己面试/面试问题.md",
+                "file": "大数据/软件安装/zookeeper.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自己面试/面试问题.md",
+                "file": "大数据/软件安装/zookeeper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自己面试/面试问题.md"
+                "file": "大数据/软件安装/zookeeper.md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
-    "大数据/原理深入/linux.md",
+    "大数据/软件安装/doris.md",
+    "大数据/软件安装/ambari安装.md",
+    "大数据/软件安装/hadoop.md",
     "自己面试/面试问题.md",
+    "大数据/原理深入/linux.md",
     "大数据/软件安装/ranger.md",
     "大数据/原理深入/logstash.md",
     "自己面试/技术选型.md",
@@ -180,14 +183,11 @@
     "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/软件安装/docker.md",
-    "大数据/软件安装/ambari安装.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
     "大数据/软件安装/ldap.md",
     "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
-    "大数据/软件安装/hadoop.md",
     "大数据/软件安装/flume安装.md",
     "大数据/软件安装/ES.md",
-    "大数据/软件安装/doris.md",
     "大数据/软件安装/PG.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "大数据/软件安装/kafka.md",
