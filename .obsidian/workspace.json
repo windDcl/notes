@@ -13,21 +13,121 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/软件安装/hadoop.md",
+                "file": "大数据/软件安装/doris.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48fb943fd0e5a1ae",
+            "id": "d219aee6caadb409",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230817204526.png"
+              }
+            }
+          },
+          {
+            "id": "37810c626b227f2f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230710173503.png"
+              }
+            }
+          },
+          {
+            "id": "edcc68980d3e5bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "84a66ead3e1b27af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230708120038.png"
+              }
+            }
+          },
+          {
+            "id": "bee791be76d1cc6c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230708115834.png"
+              }
+            }
+          },
+          {
+            "id": "2e714358609e8439",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230802184729.png"
+              }
+            }
+          },
+          {
+            "id": "8d87621274b6bdc4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/jvm内存模型.png"
+              }
+            }
+          },
+          {
+            "id": "f822fffd1391b9e1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230730230858.png"
+              }
+            }
+          },
+          {
+            "id": "34f1bac520c91d7e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230721105522.png"
+              }
+            }
+          },
+          {
+            "id": "f36efbcc856b893a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230722105307.png"
+              }
+            }
+          },
+          {
+            "id": "cf8206e5aac01fb2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "data/pictures/Pasted image 20230722105256.png"
               }
             }
           }
@@ -97,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/软件安装/hadoop.md",
+                "file": "大数据/软件安装/doris.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/软件安装/hadoop.md",
+                "file": "大数据/软件安装/doris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/软件安装/hadoop.md"
+                "file": "大数据/软件安装/doris.md"
               }
             }
           },
@@ -170,45 +270,45 @@
   },
   "active": "019df3724ed6c4f4",
   "lastOpenFiles": [
-    "自己面试/面试问题.md",
-    "自己面试/面试题.md",
+    "大数据/软件安装/ES.md",
+    "大数据/软件安装/docker.md",
+    "大数据/集群规划/xxx银行数据量和集群分配.md",
+    "面试题.md",
+    "大数据/原理深入/LDAP.md",
+    "大数据/原理深入/kerberos.md",
+    "data/pictures/Pasted image 20230817204526.png",
+    "大数据/原理深入/logstash.md",
+    "大数据/原理深入/hive调优.md",
+    "大数据/原理深入/git.md",
     "大数据/软件安装/zookeeper.md",
     "大数据/软件安装/ranger.md",
     "大数据/软件安装/PG.md",
     "大数据/软件安装/mysql.md",
+    "data/pictures/Pasted image 20230710173503.png",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
+    "data/pictures/Pasted image 20230708120038.png",
+    "data/pictures/Pasted image 20230708115834.png",
     "大数据/软件安装/ldap.md",
     "大数据/软件安装/kerberos.md",
     "大数据/软件安装/kafka.md",
-    "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/hive.md",
-    "大数据/软件安装/hadoop.md",
+    "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
+    "大数据/软件安装/hadoop.md",
     "大数据/软件安装/flume安装.md",
-    "大数据/软件安装/docker.md",
-    "自己面试/技术选型.md",
-    "大数据/原理深入/hive调优.md",
-    "大数据/原理深入/大数据技术的趋势.md",
-    "大数据/原理深入/git.md",
-    "大数据/原理深入/PG.md",
-    "大数据/原理深入/linux.md",
     "大数据/软件安装/doris.md",
     "大数据/软件安装/ambari安装.md",
-    "大数据/原理深入/logstash.md",
+    "自己面试/hive-sql练习.md",
     "自己面试/项目相关.md",
+    "data/pictures/Pasted image 20230802184729.png",
+    "data/pictures/jvm内存模型.png",
+    "data/pictures/Pasted image 20230730230858.png",
+    "data/pictures/Pasted image 20230721105522.png",
+    "data/pictures/Pasted image 20230722105307.png",
+    "data/pictures/Pasted image 20230722105256.png",
     "书籍",
-    "data/pictures/Pasted image 20231025214417.png",
-    "data/pictures/Pasted image 20231025213915.png",
-    "data/pictures/Pasted image 20231025213430.png",
-    "data/pictures/Pasted image 20230917212733.png",
-    "data/pictures/Pasted image 20230914200737.png",
-    "data/pictures/Pasted image 20230911232424.png",
     "大数据/项目/数据采集预处理",
-    "data/pictures/Pasted image 20230901071252.png",
-    "data/pictures/Pasted image 20230901071233.png",
-    "data/pictures/Pasted image 20230901071213.png",
     "大数据/项目",
-    "data/pictures/Pasted image 20230817204526.png",
     "大数据/原理深入"
   ]
 }
