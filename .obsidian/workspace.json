@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d996997a5de84f64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "d219aee6caadb409",
             "type": "leaf",
             "state": {
@@ -131,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +258,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -268,7 +281,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "019df3724ed6c4f4",
+  "active": "d996997a5de84f64",
   "lastOpenFiles": [
     "大数据/原理深入/logstash.md",
     "面试题.md",
