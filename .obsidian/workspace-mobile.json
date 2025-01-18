@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "aac75da7e9f5dd16",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf4583d1563f7bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "360525ed288c1e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9af077a621f1b045",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "535169c6dafc37aa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "3b7fc607ac2dc2d0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "09422e685c61550c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "775434f3372c849f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "46fbbb3db16fd762",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4c0aa0fff19f0bf9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "35e14fc355b4d359",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "d14c23b18423cce9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "5a9ac90264cb8818",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "360525ed288c1e85",
+  "lastOpenFiles": [
+    "大数据/软件安装/ambari安装.md",
+    "大数据/软件安装/ldap.md",
+    "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
+    "大数据/软件安装/kafka.md",
+    "data/pictures/Pasted image 20230810192912.png",
+    "自己面试/项目相关.md",
+    "自己面试/技术选型.md",
+    "data/pictures/Pasted image 20230723204204.png",
+    "data/pictures/Pasted image 20230819150726.png",
+    "data/pictures/Pasted image 20230723212727.png",
+    "data/pictures/Pasted image 20231025213430.png",
+    "data/pictures/Pasted image 20230723210830.png",
+    "data/pictures/Pasted image 20230723212613.png",
+    "data/pictures/Pasted image 20230723212459.png",
+    "data/pictures/Pasted image 20230722105256.png",
+    "data/pictures/Pasted image 20230817204526.png",
+    "面试题.md",
+    "大数据/软件安装/PG.md",
+    "大数据/项目/数据采集预处理/总体设计.md",
+    "自己面试/面试问题.md",
+    "自己面试/面试题.md",
+    "大数据/原理深入/kerberos.md",
+    "大数据/原理深入/LDAP.md",
+    "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
+    "大数据/软件安装/hdp安装.md",
+    "大数据/软件安装/mysql.md",
+    "大数据/软件安装/docker.md",
+    "大数据/软件安装/ranger.md",
+    "大数据/软件安装/zookeeper.md",
+    "大数据/原理深入/hive调优.md",
+    "大数据/软件安装/hadoop.md",
+    "大数据/原理深入/linux.md",
+    "大数据/软件安装/hive.md",
+    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
+    "大数据/软件安装/doris.md",
+    "大数据/集群规划/xxx银行数据量和集群分配.md"
+  ]
+}

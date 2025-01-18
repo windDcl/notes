@@ -16,7 +16,9 @@
                 "file": "大数据/原理深入/linux.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "linux"
             }
           },
           {
@@ -26,7 +28,23 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.8"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.8"
+            }
+          },
+          {
+            "id": "5ad84500de7de845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -36,7 +54,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230817204526.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230817204526"
             }
           },
           {
@@ -46,7 +66,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230710173503.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230710173503"
             }
           },
           {
@@ -58,7 +80,9 @@
                 "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mac VMfusion配置虚拟机网络配置和ssh"
             }
           },
           {
@@ -68,7 +92,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230708120038.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230708120038"
             }
           },
           {
@@ -78,7 +104,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230708115834.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230708115834"
             }
           },
           {
@@ -88,7 +116,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230802184729.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230802184729"
             }
           },
           {
@@ -98,7 +128,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/jvm内存模型.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "jvm内存模型"
             }
           },
           {
@@ -108,7 +140,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230730230858.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230730230858"
             }
           },
           {
@@ -118,7 +152,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230721105522.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230721105522"
             }
           },
           {
@@ -128,7 +164,9 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230722105307.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230722105307"
             }
           },
           {
@@ -138,11 +176,13 @@
               "type": "image",
               "state": {
                 "file": "data/pictures/Pasted image 20230722105256.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230722105256"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +202,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -177,7 +219,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -185,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -208,7 +254,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/原理深入/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +261,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -225,10 +272,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据/原理深入/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -239,7 +287,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -248,8 +298,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/原理深入/linux.md"
-              }
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
             }
           },
           {
@@ -261,7 +313,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -281,7 +335,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d996997a5de84f64",
+  "active": "5ad84500de7de845",
   "lastOpenFiles": [
     "大数据/原理深入/logstash.md",
     "面试题.md",
