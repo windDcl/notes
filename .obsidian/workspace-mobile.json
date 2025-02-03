@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "flink-sql窗口相关的表值函数写法"
+            }
+          },
+          {
+            "id": "2cabae1f050dc330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "情商/如何和别人有效沟通.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何和别人有效沟通"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,8 +176,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "360525ed288c1e85",
+  "active": "2cabae1f050dc330",
   "lastOpenFiles": [
+    "情商/情绪.md",
+    "情商/提高情商的方法.md",
+    "情商/什么是情商.md",
+    "梦想.md",
+    "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
+    "自己面试/实时数仓重要代码/每10分钟的pv、uv和会话，1分钟更新一次.md",
+    "面试题.md",
+    "README.md",
     "大数据/软件安装/ambari安装.md",
     "大数据/软件安装/ldap.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
@@ -179,25 +202,17 @@
     "data/pictures/Pasted image 20230723212459.png",
     "data/pictures/Pasted image 20230722105256.png",
     "data/pictures/Pasted image 20230817204526.png",
-    "面试题.md",
     "大数据/软件安装/PG.md",
     "大数据/项目/数据采集预处理/总体设计.md",
     "自己面试/面试问题.md",
     "自己面试/面试题.md",
     "大数据/原理深入/kerberos.md",
     "大数据/原理深入/LDAP.md",
-    "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
     "大数据/软件安装/hdp安装.md",
     "大数据/软件安装/mysql.md",
     "大数据/软件安装/docker.md",
     "大数据/软件安装/ranger.md",
     "大数据/软件安装/zookeeper.md",
-    "大数据/原理深入/hive调优.md",
-    "大数据/软件安装/hadoop.md",
-    "大数据/原理深入/linux.md",
-    "大数据/软件安装/hive.md",
-    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
-    "大数据/软件安装/doris.md",
-    "大数据/集群规划/xxx银行数据量和集群分配.md"
+    "大数据/原理深入/hive调优.md"
   ]
 }
