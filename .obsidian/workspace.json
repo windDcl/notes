@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "工作调研"
             }
+          },
+          {
+            "id": "781e7e7299b839c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -175,7 +189,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8629e03c35046116",
+  "active": "781e7e7299b839c2",
   "lastOpenFiles": [
     "自己面试/项目相关.md",
     "自己面试/工作调研.md",
