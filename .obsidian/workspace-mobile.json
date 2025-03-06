@@ -51,7 +51,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -176,8 +177,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2cabae1f050dc330",
+  "active": "535169c6dafc37aa",
   "lastOpenFiles": [
+    "大数据/java/进阶学习指南.md",
+    "大数据/java/线程池.md",
+    "大数据/集群规划/大数据技术栈学习路线.md",
+    "大数据/java/线程池的创建.md",
     "情商/情绪.md",
     "情商/提高情商的方法.md",
     "情商/什么是情商.md",
@@ -209,10 +214,6 @@
     "大数据/原理深入/kerberos.md",
     "大数据/原理深入/LDAP.md",
     "大数据/软件安装/hdp安装.md",
-    "大数据/软件安装/mysql.md",
-    "大数据/软件安装/docker.md",
-    "大数据/软件安装/ranger.md",
-    "大数据/软件安装/zookeeper.md",
-    "大数据/原理深入/hive调优.md"
+    "大数据/软件安装/mysql.md"
   ]
 }
