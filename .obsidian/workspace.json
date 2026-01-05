@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/java/进阶学习指南.md",
+                "file": "自己面试/面试问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进阶学习指南"
+              "title": "面试问题"
+            }
+          },
+          {
+            "id": "6891e9ea05f57923",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +189,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "def9cb5edf23215b",
+  "active": "6891e9ea05f57923",
   "lastOpenFiles": [
-    "大数据/java/线程池的创建.md",
+    "自己面试/项目相关.md",
+    "自己面试/hive-sql练习.md",
+    "面试题.md",
+    "自己面试/面试题.md",
     "大数据/java/进阶学习指南.md",
+    "大数据/java/线程池的创建.md",
     "大数据/java/线程池.md",
     "大数据/集群规划/大数据技术栈学习路线.md",
     "大数据/java/接口异步请求.md",
@@ -192,14 +209,10 @@
     "大数据/软件安装/ambari安装.md",
     "梦想.md",
     "自己面试/工作调研.md",
-    "自己面试/项目相关.md",
-    "自己面试/hive-sql练习.md",
     "自己面试/面试问题.md",
-    "自己面试/面试题.md",
     "大数据/项目/数据采集预处理/表结构设计.md",
     "自己面试/技术选型.md",
     "debug/yarn节点unhealthy状态.md",
-    "面试题.md",
     "debug/idea无法下载源码可能原因.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入/ES.md",
