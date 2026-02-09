@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5b94cf2de3672e",
+        "id": "1f7ee55ebb34c77d",
         "type": "tabs",
         "children": [
           {
-            "id": "def9cb5edf23215b",
+            "id": "c9f2de3ff89fb4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己面试/面试问题.md",
+                "file": "LLM/openClaw安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试问题"
+              "title": "openClaw安装"
             }
           },
           {
-            "id": "73668ede331a7c06",
+            "id": "866541409cded9a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题.md",
+                "file": "LLM/openClaw多agent协作探索.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试题"
+              "title": "openClaw多agent协作探索"
             }
           }
         ],
@@ -192,15 +192,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e76cbe588b64f85",
+  "active": "866541409cded9a3",
   "lastOpenFiles": [
+    "LLM/openClaw安装.md",
+    "LLM/openClaw多agent协作探索.md",
+    "未命名",
+    "LLM",
+    "自己面试/面试题 2.md",
     "视频混剪/资源整合.md",
     "README.md",
     "自己面试/面试问题.md",
     "视频混剪",
     "自己面试/项目相关.md",
     "自己面试/hive-sql练习.md",
-    "面试题.md",
     "自己面试/面试题.md",
     "大数据/java/进阶学习指南.md",
     "大数据/java/线程池的创建.md",
@@ -219,8 +223,6 @@
     "大数据/项目/数据采集预处理/表结构设计.md",
     "自己面试/技术选型.md",
     "debug/yarn节点unhealthy状态.md",
-    "debug/idea无法下载源码可能原因.md",
-    "大数据/原理深入/大数据技术的趋势.md",
     "大数据/java",
     "情商",
     "每日记录",
