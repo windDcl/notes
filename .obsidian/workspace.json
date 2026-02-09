@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频混剪/资源整合.md",
+                "file": "面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "资源整合"
+              "title": "面试题"
             }
           }
         ],
@@ -192,10 +192,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "73668ede331a7c06",
+  "active": "5e76cbe588b64f85",
   "lastOpenFiles": [
-    "自己面试/面试问题.md",
     "视频混剪/资源整合.md",
+    "README.md",
+    "自己面试/面试问题.md",
     "视频混剪",
     "自己面试/项目相关.md",
     "自己面试/hive-sql练习.md",
@@ -220,7 +221,6 @@
     "debug/yarn节点unhealthy状态.md",
     "debug/idea无法下载源码可能原因.md",
     "大数据/原理深入/大数据技术的趋势.md",
-    "大数据/原理深入/ES.md",
     "大数据/java",
     "情商",
     "每日记录",
