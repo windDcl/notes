@@ -1,8 +1,8 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "iPhone vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 7,
-  "autoPushInterval": 7,
+  "autoSaveInterval": 2,
+  "autoPushInterval": 2,
   "autoPullInterval": 10,
   "autoPullOnBoot": true,
   "disablePush": false,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "iPhone vault backup: {{date}}"
 }

@@ -3,3 +3,4 @@
 ```
 set hive.exec.mode.local.auto=ture;
 ```
+玻璃
