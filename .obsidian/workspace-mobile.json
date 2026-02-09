@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/原理深入/linux.md",
+                "file": "自己面试/面试题 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux"
+              "title": "面试题 1"
             }
           }
         ]
@@ -165,26 +165,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e4167c6a9c31b19",
+  "active": "9ce784251ec712fc",
   "lastOpenFiles": [
+    "LLM",
+    "梦想.md",
+    "书籍/情商/情绪.md",
+    "大数据/软件安装/ldap.md",
+    "大数据/项目/数据采集预处理/表结构设计.md",
     "大数据/原理深入/PG.md",
+    "大数据/原理深入/logstash.md",
+    "大数据/原理深入/git.md",
+    "未命名.md",
+    "大数据/原理深入/kerberos.md",
+    "大数据/原理深入/LDAP.md",
+    "大数据/原理深入/hive调优.md",
+    "大数据/原理深入/linux.md",
     "书籍/樊登读书分享.md",
-    "情商/提高情商的方法.md",
-    "情商/什么是情商.md",
-    "情商/如何和别人有效沟通.md",
-    "情商/情绪.md",
+    "书籍/情商/提高情商的方法.md",
+    "书籍/情商/什么是情商.md",
+    "书籍/情商/如何和别人有效沟通.md",
     "每日记录/在梦里还是现实.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入/ES.md",
-    "大数据/原理深入/hive调优.md",
     "README.md",
     "大数据/未命名.md",
-    "大数据/原理深入/git.md",
     "data/pictures/Pasted image 20230721105522.png",
     "data/pictures/Pasted image 20231025214417.png",
     "大数据/软件安装/doris.md",
     "大数据/软件安装/hive.md",
-    "大数据/原理深入/LDAP.md",
     "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
     "自己面试/面试问题.md",
     "data/pictures/Pasted image 20230819150344.png",
@@ -194,8 +202,6 @@
     "data/pictures/Pasted image 20230723213612.png",
     "data/pictures/Pasted image 20230723210355.png",
     "data/pictures/Pasted image 20230723204852.png",
-    "data/pictures/Pasted image 20230810192912.png",
-    "自己面试/项目相关.md",
-    "自己面试/实时数仓重要代码/每10分钟的pv、uv和会话，1分钟更新一次.md"
+    "data/pictures/Pasted image 20230810192912.png"
   ]
 }
