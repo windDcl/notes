@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "6891e9ea05f57923",
+            "id": "73668ede331a7c06",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "视频混剪/资源整合.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "资源整合"
             }
           }
         ],
@@ -181,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -189,8 +192,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6891e9ea05f57923",
+  "active": "73668ede331a7c06",
   "lastOpenFiles": [
+    "自己面试/面试问题.md",
+    "视频混剪/资源整合.md",
+    "视频混剪",
     "自己面试/项目相关.md",
     "自己面试/hive-sql练习.md",
     "面试题.md",
@@ -209,14 +215,12 @@
     "大数据/软件安装/ambari安装.md",
     "梦想.md",
     "自己面试/工作调研.md",
-    "自己面试/面试问题.md",
     "大数据/项目/数据采集预处理/表结构设计.md",
     "自己面试/技术选型.md",
     "debug/yarn节点unhealthy状态.md",
     "debug/idea无法下载源码可能原因.md",
     "大数据/原理深入/大数据技术的趋势.md",
     "大数据/原理深入/ES.md",
-    "大数据/原理深入/git.md",
     "大数据/java",
     "情商",
     "每日记录",
