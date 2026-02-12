@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "178e2c7242d7338a",
+        "id": "f884bd272b36de17",
         "type": "tabs",
         "children": [
           {
-            "id": "4f00725f0500640a",
+            "id": "b246da22d1d89a20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频混剪/视频剪辑的思路.md",
+                "file": "书籍/道德经.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频剪辑的思路"
-            }
-          },
-          {
-            "id": "7c211749ca364d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "搬运励志.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "搬运励志"
+              "title": "道德经"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7c211749ca364d29",
+  "active": "b246da22d1d89a20",
   "lastOpenFiles": [
-    "搬运励志.md",
     "视频混剪/视频剪辑的思路.md",
+    "搬运励志.md",
     "书籍/道德经.md",
     "视频混剪/资源整合.md",
     "信息差.md",
