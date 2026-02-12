@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频混剪/视频剪辑的思路.md",
+                "file": "视频混剪/工具调研.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频剪辑的思路"
+              "title": "工具调研"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "视频混剪/视频剪辑的思路.md",
+            "file": "视频混剪/工具调研.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,6 +183,8 @@
   },
   "active": "4e2ad1e60eb55c27",
   "lastOpenFiles": [
+    "视频混剪/ai 恶搞影视.md",
+    "视频混剪/工具调研.md",
     "视频混剪/搬运励志.md",
     "视频混剪/视频剪辑的思路.md",
     "书籍/樊登读书分享.md",
@@ -214,8 +216,6 @@
     "书籍/情商/情绪.md",
     "大数据/软件安装/ldap.md",
     "大数据/项目/数据采集预处理/表结构设计.md",
-    "大数据/原理深入/PG.md",
-    "大数据/原理深入/logstash.md",
     "data/pictures/Pasted image 20230721105522.png",
     "data/pictures/Pasted image 20231025214417.png",
     "data/pictures/Pasted image 20230819150344.png",
