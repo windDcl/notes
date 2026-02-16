@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/道德经.md",
+                "file": "视频混剪/视频剪辑的思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "道德经"
+              "title": "视频剪辑的思路"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "视频混剪/工具调研.md",
+            "file": "视频混剪/视频剪辑的思路.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,10 +168,10 @@
   },
   "active": "b246da22d1d89a20",
   "lastOpenFiles": [
-    "视频混剪/工具调研.md",
-    "视频混剪/视频剪辑的思路.md",
     "视频混剪/搬运励志.md",
     "书籍/道德经.md",
+    "视频混剪/工具调研.md",
+    "视频混剪/视频剪辑的思路.md",
     "视频混剪/ai 恶搞影视.md",
     "书籍/樊登读书分享.md",
     "视频混剪/资源整合.md",
