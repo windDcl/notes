@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7ee55ebb34c77d",
+        "id": "1a33449a53c2fa89",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f2de3ff89fb4ad",
+            "id": "29e71610454687e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/openClaw安装.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "openClaw安装"
-            }
-          },
-          {
-            "id": "866541409cded9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "视频混剪/资源整合.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "资源整合"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +173,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "866541409cded9a3",
+  "active": "29e71610454687e8",
   "lastOpenFiles": [
-    "视频混剪/思路梳理.md",
-    "视频混剪/资源整合.md",
-    "LLM/openClaw多agent协作探索.md",
-    "未命名",
     "LLM/openClaw安装.md",
+    "ai制作动画短片/AI动画短片教程.md",
+    "ai制作动画短片",
+    "信息差.md",
+    "api 中转.md",
+    "内心探索/为什么注意力这么差？.md",
+    "视频混剪/资源整合.md",
+    "内心探索",
+    "视频混剪/视频剪辑的思路.md",
+    "视频混剪/搬运励志.md",
+    "视频混剪/工具调研.md",
+    "视频混剪/ai 恶搞影视.md",
+    "视频混剪/Claude 电影素材分解 skill.md",
+    "书籍/道德经.md",
+    "视频混剪/思路梳理.md",
+    "LLM/openClaw多agent协作探索.md",
     "LLM",
     "自己面试/面试题 2.md",
     "README.md",
@@ -213,16 +205,6 @@
     "大数据/集群规划/大数据技术栈学习路线.md",
     "大数据/java/接口异步请求.md",
     "大数据/集群规划/xxx银行数据量和集群分配.md",
-    "大数据/软件安装/hadoop.md",
-    "大数据/软件安装/hadoop集群集成LDAP+kerberos.md",
-    "大数据/软件安装/flume安装.md",
-    "大数据/软件安装/ES.md",
-    "大数据/软件安装/docker.md",
-    "大数据/软件安装/ambari安装.md",
-    "梦想.md",
-    "自己面试/工作调研.md",
-    "大数据/项目/数据采集预处理/表结构设计.md",
-    "自己面试/技术选型.md",
     "大数据/java",
     "情商",
     "每日记录",
@@ -238,7 +220,6 @@
     "data/pictures/Pasted image 20230722105256.png",
     "书籍",
     "大数据/项目/数据采集预处理",
-    "大数据/项目",
-    "大数据/原理深入"
+    "大数据/项目"
   ]
 }
