@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2ffaa995688f5b",
+        "id": "f884bd272b36de17",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4167c6a9c31b19",
+            "id": "b246da22d1d89a20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己面试/面试题 1.md",
+                "file": "视频混剪/视频剪辑的思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试题 1"
+              "title": "视频剪辑的思路"
+            }
+          },
+          {
+            "id": "264262ce14f70224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "为什么注意力这么差？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "为什么注意力这么差？"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +52,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -112,6 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "视频混剪/视频剪辑的思路.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,36 +181,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e4167c6a9c31b19",
+  "active": "264262ce14f70224",
   "lastOpenFiles": [
+    "视频混剪/视频剪辑的思路.md",
+    "为什么注意力这么差？.md",
+    "视频混剪/搬运励志.md",
+    "书籍/道德经.md",
+    "视频混剪/工具调研.md",
+    "视频混剪/ai 恶搞影视.md",
+    "书籍/樊登读书分享.md",
+    "视频混剪/资源整合.md",
+    "信息差.md",
+    "api 中转.md",
+    "副业",
+    "视频混剪/Claude 电影素材分解 skill.md",
+    "ai 混剪电影.md",
+    "书籍/情商/提高情商的方法.md",
+    "书籍/情商/什么是情商.md",
+    "书籍/情商/如何和别人有效沟通.md",
+    "LLM/openClaw安装.md",
+    "/视频混剪/资源整合.md",
+    "/视频混剪",
+    "/LLM/openClaw安装.md",
+    "/自己面试/面试题 2.md",
+    "自己面试/面试题 2.md",
+    "/自己面试",
+    "/LLM/openClaw多agent协作探索.md",
+    "LLM/openClaw多agent协作探索.md",
+    "/LLM",
+    "视频混剪",
+    "自己面试/面试题 1.md",
+    "副业",
     "LLM",
     "梦想.md",
     "书籍/情商/情绪.md",
     "大数据/软件安装/ldap.md",
-    "大数据/项目/数据采集预处理/表结构设计.md",
-    "大数据/原理深入/PG.md",
-    "大数据/原理深入/logstash.md",
-    "大数据/原理深入/git.md",
-    "未命名.md",
-    "大数据/原理深入/kerberos.md",
-    "大数据/原理深入/LDAP.md",
-    "大数据/原理深入/hive调优.md",
-    "大数据/原理深入/linux.md",
-    "书籍/樊登读书分享.md",
-    "书籍/情商/提高情商的方法.md",
-    "书籍/情商/什么是情商.md",
-    "书籍/情商/如何和别人有效沟通.md",
-    "每日记录/在梦里还是现实.md",
-    "大数据/原理深入/大数据技术的趋势.md",
-    "大数据/原理深入/ES.md",
-    "README.md",
-    "大数据/未命名.md",
     "data/pictures/Pasted image 20230721105522.png",
     "data/pictures/Pasted image 20231025214417.png",
-    "大数据/软件安装/doris.md",
-    "大数据/软件安装/hive.md",
-    "自己面试/实时数仓重要代码/flink-sql窗口相关的表值函数写法.md",
-    "自己面试/面试问题.md",
     "data/pictures/Pasted image 20230819150344.png",
     "data/pictures/Pasted image 20230723213707.png",
     "data/pictures/Pasted image 20230708120038.png",
