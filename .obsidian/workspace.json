@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a33449a53c2fa89",
+        "id": "ec4913059ae5f412",
         "type": "tabs",
         "children": [
           {
-            "id": "29e71610454687e8",
+            "id": "5104a78e226bc582",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "29e71610454687e8",
+  "active": "5e76cbe588b64f85",
   "lastOpenFiles": [
     "LLM/openClaw安装.md",
     "ai制作动画短片/AI动画短片教程.md",
