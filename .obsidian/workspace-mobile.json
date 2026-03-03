@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b246da22d1d89a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "视频混剪/视频剪辑的思路.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "视频剪辑的思路"
-            }
-          },
-          {
             "id": "c38a99d84ef888d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内心探索/为什么注意力这么差？.md",
+                "file": "内心探索/怎么合理安排自己的一天？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么注意力这么差？"
+              "title": "怎么合理安排自己的一天？"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "视频混剪/视频剪辑的思路.md",
+            "file": "内心探索/怎么合理安排自己的一天？.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,8 +168,8 @@
   },
   "active": "c38a99d84ef888d3",
   "lastOpenFiles": [
-    "内心探索/怎么合理安排自己的一天？.md",
     "内心探索/为什么注意力这么差？.md",
+    "内心探索/怎么合理安排自己的一天？.md",
     "视频混剪/视频剪辑的思路.md",
     "为什么注意力这么差？.md",
     "ai制作动画短片/AI动画短片教程.md",
