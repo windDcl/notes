@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "为什么注意力这么差？"
             }
+          },
+          {
+            "id": "9602739634535863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "怎样高效率学习一个技能？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "怎样高效率学习一个技能？"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,12 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8868c2c9b6df7485",
+  "active": "9602739634535863",
   "lastOpenFiles": [
+    "内心探索/为什么注意力这么差？.md",
+    "怎样高效率学习一个技能？.md",
     "个人任务/20260304.md",
     "内心探索/怎么合理安排自己的一天？.md",
     "个人任务",
-    "内心探索/为什么注意力这么差？.md",
     "视频混剪/视频剪辑的思路.md",
     "为什么注意力这么差？.md",
     "ai制作动画短片/AI动画短片教程.md",
@@ -216,7 +231,6 @@
     "书籍/情商/什么是情商.md",
     "书籍/情商/如何和别人有效沟通.md",
     "LLM/openClaw安装.md",
-    "/视频混剪/资源整合.md",
     "/自己面试",
     "视频混剪",
     "data/pictures/Pasted image 20230721105522.png",
