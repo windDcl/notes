@@ -143,7 +143,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e2dff80d14779cbb",
@@ -209,7 +209,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "708e9052f979d2f8",
+  "active": "9ce784251ec712fc",
   "lastOpenFiles": [
     "个人任务/20260305.md",
     "个人任务/20260304.md",

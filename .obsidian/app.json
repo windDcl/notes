@@ -23,6 +23,9 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:configure-toolbar",
-    "editor:insert-table"
+    "editor:insert-table",
+    "obsidian-git:commit",
+    "obsidian-git:commit-specified-message",
+    "obsidian-git:push2"
   ]
 }
