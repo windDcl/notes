@@ -4,6 +4,9 @@
 
 ![[IMG_8602.jpeg]]
 
+#标签2 增加写实
+一个普通亚洲男生站在便利店门口喝可乐，夜晚街拍风格，路灯暖光照明，手机抓拍真实感，街头随拍氛围。RAW photo, cinematic portrait, 85mm lens, f1.8
 
-
-
+![[IMG_8603.jpeg]]
+![[IMG_8604.jpeg]]
+![[IMG_8605.jpeg]]

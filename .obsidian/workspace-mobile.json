@@ -183,7 +183,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "内心探索/为什么注意力这么差？.md",
+            "file": "ai 生图.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -237,8 +237,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "faeb12f19440f807",
+  "active": "c8b86cba29dceafb",
   "lastOpenFiles": [
+    "data/pictures/IMG_8605.jpeg",
+    "data/pictures/IMG_8604.jpeg",
+    "data/pictures/IMG_8603.jpeg",
     "data/pictures/IMG_8602.jpeg",
     "data/pictures/IMG_8601.jpeg",
     "挣钱最稳的方式.md",
@@ -281,9 +284,6 @@
     "data/pictures/Pasted image 20230819150344.png",
     "data/pictures/Pasted image 20230723213707.png",
     "data/pictures/Pasted image 20230708120038.png",
-    "data/pictures/Pasted image 20230721175322.png",
-    "data/pictures/Pasted image 20230723213612.png",
-    "data/pictures/Pasted image 20230723210355.png",
-    "data/pictures/Pasted image 20230723204852.png"
+    "data/pictures/Pasted image 20230721175322.png"
   ]
 }
