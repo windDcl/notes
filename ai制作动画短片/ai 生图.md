@@ -10,3 +10,9 @@
 ![[IMG_8603.jpeg]]
 ![[IMG_8604.jpeg]]
 ![[IMG_8605.jpeg]]
+
+
+cinematic composition
+
+![[IMG_8607.jpeg]]
+![[IMG_8608.jpeg]]
