@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b32f61c0c8b3fc46",
+        "id": "7f75edd66ad0fc77",
         "type": "tabs",
         "children": [
           {
-            "id": "efc5fe3480822389",
+            "id": "78c7f7d7b2f0b217",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "LLM/openClaw安装.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "openClaw安装"
             }
           }
         ]
@@ -175,8 +177,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "efc5fe3480822389",
+  "active": "78c7f7d7b2f0b217",
   "lastOpenFiles": [
+    "大数据/规则引擎流程.md",
+    "内心探索/挣钱最稳的方式.md",
+    "内心探索/怎样高效率学习一个技能？.md",
+    "个人任务/20260305.md",
+    "个人任务/20260304.md",
+    "个人任务",
+    "data/pictures/IMG_8608.jpeg",
+    "data/pictures/IMG_8607.jpeg",
+    "data/pictures/IMG_8605.jpeg",
+    "data/pictures/IMG_8604.jpeg",
+    "data/pictures/IMG_8603.jpeg",
+    "data/pictures/IMG_8602.jpeg",
+    "data/pictures/IMG_8601.jpeg",
+    "ai制作动画短片/生图流程.md",
+    "ai制作动画短片/ai 生图.md",
     "内心探索/怎么合理安排自己的一天？.md",
     "LLM/openClaw安装.md",
     "ai制作动画短片/AI动画短片教程.md",
@@ -200,28 +217,13 @@
     "自己面试/面试问题.md",
     "视频混剪",
     "自己面试/项目相关.md",
-    "自己面试/hive-sql练习.md",
-    "自己面试/面试题.md",
-    "大数据/java/进阶学习指南.md",
-    "大数据/java/线程池的创建.md",
-    "大数据/java/线程池.md",
-    "大数据/集群规划/大数据技术栈学习路线.md",
-    "大数据/java/接口异步请求.md",
     "大数据/java",
     "情商",
     "每日记录",
     "data/pictures/Pasted image 20230817204526.png",
     "data/pictures/Pasted image 20230710173503.png",
     "data/pictures/Pasted image 20230708120038.png",
-    "data/pictures/Pasted image 20230708115834.png",
-    "data/pictures/Pasted image 20230802184729.png",
-    "data/pictures/jvm内存模型.png",
-    "data/pictures/Pasted image 20230730230858.png",
-    "data/pictures/Pasted image 20230721105522.png",
-    "data/pictures/Pasted image 20230722105307.png",
-    "data/pictures/Pasted image 20230722105256.png",
     "书籍",
-    "大数据/项目/数据采集预处理",
-    "大数据/项目"
+    "大数据/项目/数据采集预处理"
   ]
 }
