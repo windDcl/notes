@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4913059ae5f412",
+        "id": "b32f61c0c8b3fc46",
         "type": "tabs",
         "children": [
           {
-            "id": "5104a78e226bc582",
+            "id": "efc5fe3480822389",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
             }
           }
         ]
@@ -173,8 +175,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e76cbe588b64f85",
+  "active": "efc5fe3480822389",
   "lastOpenFiles": [
+    "内心探索/怎么合理安排自己的一天？.md",
     "LLM/openClaw安装.md",
     "ai制作动画短片/AI动画短片教程.md",
     "ai制作动画短片",
@@ -204,7 +207,6 @@
     "大数据/java/线程池.md",
     "大数据/集群规划/大数据技术栈学习路线.md",
     "大数据/java/接口异步请求.md",
-    "大数据/集群规划/xxx银行数据量和集群分配.md",
     "大数据/java",
     "情商",
     "每日记录",
