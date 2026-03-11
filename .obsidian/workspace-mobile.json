@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人任务/0311.md",
+                "file": "个人任务/xdr 任务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0311"
+              "title": "xdr 任务"
             }
           }
         ],
@@ -267,8 +267,9 @@
   },
   "active": "b4b0048fa6d33509",
   "lastOpenFiles": [
-    "内心探索/搞钱思路.md",
     "个人任务/0311.md",
+    "个人任务/xdr 任务.md",
+    "内心探索/搞钱思路.md",
     "大数据/规则引擎流程.md",
     "LLM/tg注册.md",
     "/内心探索/怎么合理安排自己的一天？.md",
@@ -306,7 +307,6 @@
     "/ai制作动画短片",
     "视频混剪/搬运励志.md",
     "书籍/道德经.md",
-    "视频混剪/工具调研.md",
     "副业",
     "/自己面试",
     "视频混剪",
