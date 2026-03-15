@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b873482476169d",
+        "id": "64acd112621d5157",
         "type": "tabs",
         "children": [
           {
-            "id": "5b121d5524f590ba",
+            "id": "5f7351cdb797b4a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/学习.md",
+                "file": "LLM/vibecoding/完整开发提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习"
+              "title": "完整开发提示词"
             }
           }
         ]
@@ -177,17 +177,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b121d5524f590ba",
+  "active": "5f7351cdb797b4a0",
   "lastOpenFiles": [
+    "LLM/openclaw/学习.md",
+    "LLM/vibecoding/完整开发提示词.md",
+    "LLM/vibecoding",
+    "LLM/openclaw/openClaw安装.md",
+    "LLM/openclaw/tg注册.md",
+    "LLM/openclaw/openClaw多agent协作探索.md",
+    "LLM/openclaw",
     "内心探索/搞钱思路.md",
     "个人任务/xdr 任务.md",
     "个人任务/0311.md",
     "data/pictures/image.jpg",
     "data/pictures/image 1.jpg",
-    "LLM/学习.md",
-    "LLM/openClaw安装.md",
-    "LLM/tg注册.md",
-    "LLM/openClaw多agent协作探索.md",
     "大数据/规则引擎流程.md",
     "内心探索/挣钱最稳的方式.md",
     "内心探索/怎样高效率学习一个技能？.md",
@@ -216,14 +219,11 @@
     "视频混剪/工具调研.md",
     "视频混剪/ai 恶搞影视.md",
     "视频混剪/Claude 电影素材分解 skill.md",
-    "书籍/道德经.md",
     "LLM",
     "视频混剪",
     "大数据/java",
     "情商",
     "每日记录",
-    "data/pictures/Pasted image 20230817204526.png",
-    "书籍",
-    "大数据/项目/数据采集预处理"
+    "data/pictures/Pasted image 20230817204526.png"
   ]
 }
