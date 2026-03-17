@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内心探索/功过格.md",
+                "file": "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "功过格"
+              "title": "mac VMfusion配置虚拟机网络配置和ssh"
             }
           }
         ],
@@ -267,8 +267,8 @@
   },
   "active": "b4b0048fa6d33509",
   "lastOpenFiles": [
-    "内心探索/怎么合理安排自己的一天？.md",
     "内心探索/功过格.md",
+    "内心探索/怎么合理安排自己的一天？.md",
     "个人任务/xdr 任务.md",
     "LLM/vibecoding/完整开发提示词.md",
     "LLM/vibecoding",
