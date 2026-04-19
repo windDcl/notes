@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "LLM/vibecoding/完整开发提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "完整开发提示词"
             }
           }
         ],
@@ -281,8 +281,8 @@
   },
   "active": "16fc167f04fbe271",
   "lastOpenFiles": [
-    "内心探索/功过格.md",
     "未命名.md",
+    "内心探索/功过格.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "内心探索/怎么合理安排自己的一天？.md",
     "个人任务/xdr 任务.md",
