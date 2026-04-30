@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/vibecoding/完整开发提示词.md",
+                "file": "LLM/hermes/windiws 国内无外网安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "完整开发提示词"
+              "title": "windiws 国内无外网安装"
             }
           },
           {
@@ -239,7 +239,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LLM/vibecoding/完整开发提示词.md",
+            "file": "LLM/hermes/windiws 国内无外网安装.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -295,15 +295,21 @@
   },
   "active": "16fc167f04fbe271",
   "lastOpenFiles": [
-    "康浩/prdfinal.md",
     "未命名.md",
-    "prd.md",
+    "LLM/hermes/windiws 国内无外网安装.md",
+    "LLM/hermes",
+    "个人任务/xdr 任务.md",
+    "个人任务/20260305.md",
+    "个人任务/20260304.md",
+    "个人任务/0311.md",
+    "康浩/prdfinal.md",
+    "内心探索/怎样高效率学习一个技能？.md",
     "LLM/vibecoding/完整开发提示词.md",
+    "prd.md",
     "康浩",
     "内心探索/功过格.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "内心探索/怎么合理安排自己的一天？.md",
-    "个人任务/xdr 任务.md",
     "LLM/vibecoding",
     "LLM/openclaw/openClaw安装.md",
     "LLM/openclaw/学习.md",
@@ -320,16 +326,11 @@
     "/LLM",
     "data/pictures/image 1.jpg",
     "data/pictures/image.jpg",
-    "个人任务/0311.md",
     "内心探索/搞钱思路.md",
     "大数据/规则引擎流程.md",
     "LLM/tg注册.md",
     "/内心探索/怎么合理安排自己的一天？.md",
     "/内心探索",
-    "/LLM/tg注册.md",
-    "/LLM/openClaw安装.md",
-    "ai制作动画短片/生图流程.md",
-    "ai制作动画短片/ai 生图.md",
     "data/pictures/IMG_8608.jpeg",
     "data/pictures/IMG_8607.jpeg",
     "data/pictures/IMG_8605.jpeg",
@@ -339,7 +340,6 @@
     "data/pictures/IMG_8601.jpeg",
     "个人任务",
     "ai制作动画短片",
-    "内心探索",
     "data/pictures/Pasted image 20230721105522.png"
   ]
 }
