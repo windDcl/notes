@@ -139,16 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prd.md",
+                "file": "康浩/prdfinal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prd"
+              "title": "prdfinal"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "prd.md",
+            "file": "LLM/vibecoding/完整开发提示词.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -293,12 +293,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2285241f0e703a0",
+  "active": "16fc167f04fbe271",
   "lastOpenFiles": [
-    "LLM/vibecoding/完整开发提示词.md",
-    "prd.md",
-    "康浩",
+    "康浩/prdfinal.md",
     "未命名.md",
+    "prd.md",
+    "LLM/vibecoding/完整开发提示词.md",
+    "康浩",
     "内心探索/功过格.md",
     "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "内心探索/怎么合理安排自己的一天？.md",
@@ -336,7 +337,6 @@
     "data/pictures/IMG_8603.jpeg",
     "data/pictures/IMG_8602.jpeg",
     "data/pictures/IMG_8601.jpeg",
-    "内心探索/挣钱最稳的方式.md",
     "个人任务",
     "ai制作动画短片",
     "内心探索",
