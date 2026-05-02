@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/hermes/windiws 国内无外网安装.md",
+                "file": "LLM/vibecoding/完整开发提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "windiws 国内无外网安装"
+              "title": "完整开发提示词"
             }
           },
           {
@@ -239,7 +239,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LLM/hermes/windiws 国内无外网安装.md",
+            "file": "LLM/vibecoding/完整开发提示词.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -295,8 +295,15 @@
   },
   "active": "16fc167f04fbe271",
   "lastOpenFiles": [
-    "未命名.md",
     "LLM/hermes/windiws 国内无外网安装.md",
+    "大数据/软件安装/doris.md",
+    "大数据/软件安装/docker.md",
+    "大数据/软件安装/ambari安装.md",
+    "大数据/软件安装/kerberos.md",
+    "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
+    "大数据/原理深入/git.md",
+    "大数据/java/接口异步请求.md",
+    "未命名.md",
     "LLM/hermes",
     "个人任务/xdr 任务.md",
     "个人任务/20260305.md",
@@ -308,7 +315,6 @@
     "prd.md",
     "康浩",
     "内心探索/功过格.md",
-    "大数据/软件安装/mac VMfusion配置虚拟机网络配置和ssh.md",
     "内心探索/怎么合理安排自己的一天？.md",
     "LLM/vibecoding",
     "LLM/openclaw/openClaw安装.md",
@@ -319,17 +325,11 @@
     "/LLM/openclaw/openClaw多agent协作探索.md",
     "/LLM/openclaw/tg注册.md",
     "/LLM/openclaw/openClaw安装.md",
-    "/LLM/vibecoding/完整开发提示词.md",
-    "/LLM/openclaw/学习.md",
     "/LLM/vibecoding",
     "/LLM/openclaw",
     "/LLM",
     "data/pictures/image 1.jpg",
     "data/pictures/image.jpg",
-    "内心探索/搞钱思路.md",
-    "大数据/规则引擎流程.md",
-    "LLM/tg注册.md",
-    "/内心探索/怎么合理安排自己的一天？.md",
     "/内心探索",
     "data/pictures/IMG_8608.jpeg",
     "data/pictures/IMG_8607.jpeg",
